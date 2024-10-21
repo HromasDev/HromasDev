@@ -11,7 +11,7 @@
 ### 📊 Статистика
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&theme=react&bg_color=ffffff00&card_width=430&border=61dafb&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&theme=react&bg_color=ffffff00&card_width=420&border=61dafb&hide_border=true" alt="Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=hromasdev&show_icons=true&theme=react&bg_color=ffffff00&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
