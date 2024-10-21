@@ -1,6 +1,6 @@
 # Привет, я Hromas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone.webp" alt="Telephone" width="34" style="margin: 0 10px -5px 0" /> Связь со мной
+### 📬 Связь со мной
 <a href="https://t.me/hromas">
   <img src="https://img.shields.io/badge/Telegram-%40hromas-28A7E7?style=for-the-badge&logo=telegram&labelColor=1D1D1D" alt="Telegram">
 </a>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=1D1D1D&color=5865F2" alt="Discord">
 </a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="34" style="margin: 0 10px -5px 0" /> Статистика
+### 📊 Статистика
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&theme=react&bg_color=ffffff00&card_width=430&border=61dafb&hide_border=true" alt="Top Languages" />
@@ -18,11 +18,7 @@
   </a>
 </div>
 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="34" style="margin: 0 10px -5px 0" /> Технологии и инструменты
-
-
----
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="34" /> Технологии и инструменты</h2>
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,8 +52,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="34" style="margin: 0 10px -5px 0" /> В данный момент изучаю
----
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="34" /> В данный момент изучаю</h2>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
