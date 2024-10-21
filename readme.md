@@ -10,13 +10,10 @@
 
 ### 📊 Статистика
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&theme=react&bg_color=ffffff00&card_width=330&border=61dafb&hide_border=true" alt="Top Languages" style="display:inline-block;"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hromasdev&show_icons=true&theme=react&bg_color=ffffff00&border_color=61dafb&hide_border=true" alt="GitHub Stats" style="display:inline-block;"/>
-</div>
-
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&theme=react&bg_color=ffffff00&card_width=430&border=61dafb&hide_border=true" alt="Top Languages" />
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=hromasdev&show_icons=true&theme=react&bg_color=ffffff00&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="34" /> Технологии и инструменты</h2>
 
