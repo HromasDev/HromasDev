@@ -1,39 +1,66 @@
-[![Ask me anything](https://img.shields.io/badge/%40hromas-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/hromas)
-[![Ask me anything](https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/M7MqQhhu5j)
+# Привет, я Hromas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right">
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&langs_count=8&card_width=465&bg_color=151515&hide_border=true&text_color=ffffff&title_color=5865f2)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone.webp" alt="Telephone" width="34" style="margin: 0 10px -5px 0" /> Связь со мной
+<a href="https://t.me/hromas">
+  <img src="https://img.shields.io/badge/Telegram-%40hromas-28A7E7?style=for-the-badge&logo=telegram&labelColor=1D1D1D" alt="Telegram">
+</a>
+<a href="https://discord.gg/M7MqQhhu5j">
+  <img src="https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=1D1D1D&color=5865F2" alt="Discord">
+</a>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HromasDev&count_private=true&theme=dark&show_icons=true&count_private=true&sanitize=true&hide_border=true&line_height=25&text_color=ffffff&title_color=5865f2)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="34" style="margin: 0 10px -5px 0" /> Статистика
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&theme=react&bg_color=ffffff00&card_width=465&border=61dafb&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=hromasdev&show_icons=true&theme=react&bg_color=ffffff00&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
 
-# Languages and Tools
 
-### Front-end
-![Static Badge](https://img.shields.io/badge/HTML-C04DFF?style=for-the-badge&logo=html5&labelColor=000000&color=e34f26)
-![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=000000&color=f5f5f5)
-![Static Badge](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&labelColor=000000&color=FFD700)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="34" style="margin: 0 10px -5px 0" /> Технологии и инструменты
 
-![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=000000&color=61DAFB)
-![Static Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&labelColor=000000&color=f5f5f5)
-![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=000000&color=7952B3)
 
-### Back-end
-![Static Badge](https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=sqlite&labelColor=000000&color=00BFFF)
-![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=000000&color=777BB4)
-![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=000000&color=339933)
-![Static Badge](https://img.shields.io/badge/Express.js-999999?style=for-the-badge&logo=express&labelColor=000000&color=34A85A)
+---
 
-### Desktop
-![Static Badge](https://img.shields.io/badge/electron-34A85A?style=for-the-badge&logo=electron&labelColor=000000&color=34A85A)
-![Static Badge](https://img.shields.io/badge/tauri-FFC107?style=for-the-badge&logo=tauri&labelColor=000000&color=FFC107)
+#### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### Design
-![Static Badge](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&labelColor=000000&color=F24E1E)
-![Static Badge](https://img.shields.io/badge/adobe%20photoshop-FFA07A?style=for-the-badge&logo=adobe%20photoshop&labelColor=000000&color=31a8ff)
-![Static Badge](https://img.shields.io/badge/adobe%20after%20effects-FFC300?style=for-the-badge&logo=adobe%20after%20effects&labelColor=000000&color=9999ff)
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=sqlite&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-999999?style=for-the-badge&logo=express&logoColor=white)
 
-# I’m currently learning:
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=000000&color=3776AB)
-![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&labelColor=000000&color=3178C6)
+#### 💻 Desktop
+![Electron](https://img.shields.io/badge/Electron-34A85A?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC107?style=for-the-badge&logo=tauri&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&labelColor=000000&color=f5f5f5)
-![Static Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&color=f5f5f5)
+#### 🖌️ UI
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+#### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="34" style="margin: 0 10px -5px 0" /> В данный момент изучаю
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/refs/heads/master/data/lofi.gif" align="right" width="100%" />
